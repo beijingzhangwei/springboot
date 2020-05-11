@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-demo-02-1" />
+        <module name="spring-boot-demo-03-1" />
+        <module name="spring-boot-demo-03-2" />
+        <module name="spring-boot-demo-05-1" />
+        <module name="spring-boot-demo-05-2" />
+        <module name="spring-boot-demo-10-1" />
+        <module name="spring-boot-demo-11-1" />
+        <module name="spring-boot-demo-12-1" />
+        <module name="spring-boot-demo-13-1" />
+        <module name="spring-boot-demo-6-1" />
+        <module name="spring-boot-demo-7-1" />
+        <module name="spring-boot-demo-8-1" />
+        <module name="spring-boot-demo-9-1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-demo-02-1" target="1.8" />
+      <module name="spring-boot-demo-03-1" target="1.8" />
+      <module name="spring-boot-demo-03-2" target="1.8" />
+      <module name="spring-boot-demo-05-1" target="1.8" />
+      <module name="spring-boot-demo-05-2" target="1.8" />
+      <module name="spring-boot-demo-10-1" target="1.8" />
+      <module name="spring-boot-demo-11-1" target="1.8" />
+      <module name="spring-boot-demo-12-1" target="1.8" />
+      <module name="spring-boot-demo-13-1" target="1.8" />
+      <module name="spring-boot-demo-6-1" target="1.8" />
+      <module name="spring-boot-demo-7-1" target="1.8" />
+      <module name="spring-boot-demo-8-1" target="1.8" />
+      <module name="spring-boot-demo-9-1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
